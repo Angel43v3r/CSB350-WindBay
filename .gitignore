@@ -1,0 +1,17 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# macOS metadata
+.DS_Store
+
+# Java build files
+out/
+target/
+*.class
+
+# Logs
+*.log
+
+# Environment and config files
+.env
