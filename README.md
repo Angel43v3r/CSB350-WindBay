@@ -1,8 +1,8 @@
 # WindBay
 ## E-Commerce Project
-## CSB350 - Database Technology
-## Profesor - Hanna Landrus
-## Date - May 8, 2025 to June 12, 2025
+### CSB350 - Database Technology
+### Profesor - Hanna Landrus
+### Date - May 8, 2025 to June 12, 2025
 
 ## Overview
 This project designs a database for an Online Marketplace (Windbay). The DB tracks products, inventory, transactions, reviews, and registered users
