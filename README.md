@@ -1,4 +1,5 @@
 # WindBay
+![WindBay Presentation](https://docs.google.com/presentation/d/1WrYzQAY1dTZOylIcNXSyKY6l_79LW9vFXArZVYrz0nM/edit?usp=sharing)
 ## E-Commerce Project
 ### CSB350 - Database Technology
 ### Profesor - Hanna Landrus
